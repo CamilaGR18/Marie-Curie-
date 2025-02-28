@@ -69,7 +69,7 @@
 
     <main>
         <section class="bio">
-            <img src="marie-curie.jpg" alt="Marie Curie">
+            <img src="https://www.bing.com/images/search?view=detailV2&ccid=r9Ooiq2A&id=9E6967A9FB55F7A750033D55AC26C6860C3854C2&thid=OIP.r9Ooiq2A2dt_eyF5xh669gHaJC&mediaurl=https%3a%2f%2fcdn.britannica.com%2f10%2f74610-050-19CB330C%2fMarie-Curie-Paris-laboratory.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.afd3a88aad80d9db7f7b2179c61ebaf6%3frik%3dwlQ4DIbGJqxVPQ%26pid%3dImgRaw%26r%3d0&exph=1600&expw=1312&q=marie+curi&simid=608026744311842328&FORM=IRPRST&ck=A151D2962059C953296F3C7C562D3BEA&selectedIndex=0&itb=0" alt="Marie Curie">
             <div class="texto">
                 <h2>Biografía</h2>
                 <p>
