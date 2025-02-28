@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marie Curie - Pionera de la Ciencia</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        header {
+            background-color: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .bio {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .bio img {
+            width: 150px;
+            border-radius: 10px;
+        }
+
+        .logros ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .logros li {
+            background: #2ecc71;
+            color: white;
+            padding: 10px;
+            margin: 5px 0;
+            border-radius: 5px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background: #2c3e50;
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Marie Curie</h1>
+        <p>Pionera en la radiactividad y primera mujer en ganar un Premio Nobel</p>
+    </header>
+
+    <main>
+        <section class="bio">
+            <img src="marie-curie.jpg" alt="Marie Curie">
+            <div class="texto">
+                <h2>Biografía</h2>
+                <p>
+                    Marie Curie (1867-1934) fue una científica polaca-francesa conocida por sus investigaciones sobre la radiactividad. 
+                    Fue la primera persona en recibir dos premios Nobel en distintas disciplinas: Física y Química.
+                </p>
+                <p>
+                    Junto con su esposo, Pierre Curie, descubrió los elementos radio y polonio, revolucionando la ciencia y la medicina.
+                </p>
+            </div>
+        </section>
+
+        <section class="logros">
+            <h2>Logros Destacados</h2>
+            <ul>
+                <li>Descubrimiento del Polonio y el Radio.</li>
+                <li>Primera mujer en ganar un Premio Nobel.</li>
+                <li>Única persona en la historia con dos Nobel en distintas ciencias.</li>
+                <li>Fundadora del Instituto del Radio en París.</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 - Página dedicada a Marie Curie</p>
+    </footer>
+</body>
+</html>
